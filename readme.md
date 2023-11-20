@@ -47,3 +47,5 @@ You can suggest improvements or new languages using the `web-ext-translator` web
 ## License
 
 MIT © [Hank Yang](https://momane.com/), [Federico Brigante](https://fregante.com/)
+
+Хорошая штука
